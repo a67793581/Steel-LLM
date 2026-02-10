@@ -25,3 +25,4 @@ streamlit
 spacy==3.5.0
 multiprocess==0.70.12
 dill==0.3.4
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
